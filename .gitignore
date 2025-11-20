@@ -1,0 +1,23 @@
+#==================================================================
+#    .gitignore is used to ignore unnecessary generalted files
+#==================================================================
+
+#builded output
+*.o
+*.exe
+*.bin
+*.hex
+*.elf
+
+# IDEs/TOOLs
+.vscode/
+
+# OTHER OUTPUT
+build/
+Build/
+out/
+output/
+Debug
+
+# TOOL VSCODE
+/vscode
